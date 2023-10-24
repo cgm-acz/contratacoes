@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+import streamlit as st
 
 lic = st.number_input("Informe o número da licitação:")
 
