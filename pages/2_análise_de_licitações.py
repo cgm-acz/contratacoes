@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-lic = st.text_input("Informe o número da licitação:")
+lic = st.number_input("Informe o número da licitação:")
 
 if lic:  
   url = "http://wstransparencia.pma.es.gov.br/api/Licitacao/" + lic
