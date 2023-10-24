@@ -15,5 +15,5 @@ st.write(
 )
 st.write("\n")
 
-st.subheader("Cadastro de Clientes")
+st.subheader("Analise de Licitações e Contratos")
 cic_new = st.selectbox("Informe a função que deseja utiliza:" ["Análise de Licitações", "Análise de Contratos"])
