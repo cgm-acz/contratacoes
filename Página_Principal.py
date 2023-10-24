@@ -16,7 +16,7 @@ st.set_page_config(
     page_icon="📈",
 )
 
-st.image('logo.png', caption=None, width=595, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
+st.image('logo.jpg', caption=None, width=595, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 st.markdown("# Página Principal")
 
 st.write(
