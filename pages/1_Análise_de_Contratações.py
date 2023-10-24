@@ -5,7 +5,7 @@ import pandas as pd
 
 tipos = ['Análise de risco', 'Seleção de processos']
 
-st.image('cgm.jpeg', caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
+st.image('logo.jpeg', caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.sidebar.markdown("# Página Principal")
 
