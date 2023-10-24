@@ -16,4 +16,4 @@ st.write(
 st.write("\n")
 
 st.subheader("Analise de Licitações e Contratos")
-cic_new = st.selectbox("Informe a função que deseja utiliza:" ["Análise de Licitações", "Análise de Contratos"])
+cic_new = st.selectbox("Informe a função que deseja utilizar:", ["Análise de Licitações", "Análise de Contratos"])
